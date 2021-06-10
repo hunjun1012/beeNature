@@ -1,0 +1,7 @@
+{
+  "name": "nature",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
